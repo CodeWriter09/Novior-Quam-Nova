@@ -2,3 +2,4 @@
 Latin Vocabulary Reference Book in German
 
 Wir (die Entwickler) denken mal, das ganze ist selbsterklärend.
+Zum downloaden einfach auf "download code" drücken.
