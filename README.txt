@@ -1,8 +1,6 @@
 # Novior-Quam-Nova
 Latin Vocabulary Reference Book in German
 
-AKTUELL IST DIESE SEITE IM UMBAU!
-
 Zum downloaden einfach auf rechts auf den aktuellen Release drücken und unter Assets die HTMl - Datei (oberste) antippen. Nun sollte sich das Downloadfenster öffnen. Nach dem Download die Datei zur Verwendung einfach öffnen.
 Bei Problemen sind wir per Email erreichbar.
 
