@@ -3,11 +3,11 @@ Latin Vocabulary Reference Book in German
 
 AKTUELL IST DIESE SEITE IM UMBAU!
 
-Zum downloaden einfach auf rechts auf den aktuellen Release drücken, als ZIP in den gewünschten Zielordner downloaden und dann entpacken (antippen"). Zur Verendung einfach die Datei öffnen.
+Zum downloaden einfach auf rechts auf den aktuellen Release drücken und unter Assets die HTMl - Datei (oberste) antippen. Nun sollte sich das Downloadfenster öffnen. Nach dem Download die Datei zur Verwendung einfach öffnen.
+Bei Problemen sind wir per Email erreichbar.
 
 Probleme oder Bugs können unter "Issues" gepostet werden.
-Hier ist immer die NEUESTE Version zu finden, ältere Versionen werden offline genommen.
-Der Versionsverlauf ist unter Wiki -> Pages -> Changelog zu finden.
+Der Versionsverlauf kann unter Wiki -> Pages -> Changelog eingesehen werden.
 
 
 Contact:
