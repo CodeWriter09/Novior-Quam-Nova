@@ -12,6 +12,7 @@ If you have any problems regarding this procedure or using the system in general
 <br>
 
 Supported Viewers:
+<br>
 Firefox, Safari, Documents
 Other Viewers may also work but we don't guarantee that the program will work properly with them.
 If you want us to verify if a Browser or Viewer works correctly for this project, please send us an email.
