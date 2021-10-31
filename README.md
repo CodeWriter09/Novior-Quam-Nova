@@ -13,11 +13,9 @@ Supported Viewers:
 Firefox, Safari, Documents
 Other Viewers may also work but we don't guarantee that the program will work properly with them.
 If you want us to verify if a Browser or Viewer works correctly for this project, please send us an email.
-
+<a href="https://github.com/CodeWriter09/Novior-Quam-Nova/wiki/Changelog">Changelog</a>
 Changelog:        https://github.com/CodeWriter09/Novior-Quam-Nova/wiki/Changelog
-
 Project History:  https://github.com/CodeWriter09/Novior-Quam-Nova/wiki/History
-
 
 
 Contact:
