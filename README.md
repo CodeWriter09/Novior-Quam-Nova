@@ -15,7 +15,9 @@ Other Viewers may also work but we don't guarantee that the program will work pr
 If you want us to verify if a Browser or Viewer works correctly for this project, please send us an email.
 
 Changelog:        https://github.com/CodeWriter09/Novior-Quam-Nova/wiki/Changelog
+
 Project History:  https://github.com/CodeWriter09/Novior-Quam-Nova/wiki/History
+
 
 
 Contact:
