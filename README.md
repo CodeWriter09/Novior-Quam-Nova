@@ -6,7 +6,7 @@ To download the latest version simply go to "Releases" on the right sidebar and 
 Um die neueste Version herunterzuladen navigiere zu "Releases" in der rechten Seitenleiste und wähle die erste datei unterhalb von "Assets" aus. Nun sollte sich das Downloadfenster deines Browsers öffnen und fragen, ob die Datei gespeichert werden soll. Speichere sie auf deinem Gerät und öffne sie mit einem der unterstützten Viewer von unten, um zu überprüfen, ob alles funktioniert.
 
 (IpadOS Tutorial: https://www.youtube.com/watch?v=R99axgwEV80)
-
+<br>
 (PC Tutorial: https://www.youtube.com/watch?v=99unPZzTTSs]
 
 If you have any problems regarding this procedure or using the system in general, please contact us via email.
