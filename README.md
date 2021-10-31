@@ -7,6 +7,8 @@ Um die neueste Version herunterzuladen navigiere zu "Releases" in der rechten Se
 
 (IpadOS Tutorial: https://www.youtube.com/watch?v=R99axgwEV80)
 
+(PC Tutorial: https://www.youtube.com/watch?v=99unPZzTTSs]
+
 If you have any problems regarding this procedure or using the system in general, please contact us via email.
 
 <br>
