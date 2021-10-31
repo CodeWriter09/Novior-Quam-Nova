@@ -9,14 +9,19 @@ Um die neueste Version herunterzuladen navigiere zu "Releases" in der rechten Se
 
 If you have any problems regarding this procedure or using the system in general, please contact us via email.
 
+<br></br>
+
 Supported Viewers:
 Firefox, Safari, Documents
 Other Viewers may also work but we don't guarantee that the program will work properly with them.
 If you want us to verify if a Browser or Viewer works correctly for this project, please send us an email.
-<a href="https://github.com/CodeWriter09/Novior-Quam-Nova/wiki/Changelog">Changelog</a>
-Changelog:        https://github.com/CodeWriter09/Novior-Quam-Nova/wiki/Changelog
-Project History:  https://github.com/CodeWriter09/Novior-Quam-Nova/wiki/History
 
+<br></br>
+
+<a href="https://github.com/CodeWriter09/Novior-Quam-Nova/wiki/Changelog">Changelog</a>
+<a href="https://github.com/CodeWriter09/Novior-Quam-Nova/wiki/History">Project History</a>
+
+<br></br>
 
 Contact:
 CodeWriter09@gmail.com
