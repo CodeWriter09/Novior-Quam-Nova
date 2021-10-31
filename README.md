@@ -19,6 +19,7 @@ If you want us to verify if a Browser or Viewer works correctly for this project
 <br></br>
 
 <a href="https://github.com/CodeWriter09/Novior-Quam-Nova/wiki/Changelog">Changelog</a>
+<br>
 <a href="https://github.com/CodeWriter09/Novior-Quam-Nova/wiki/History">Project History</a>
 
 <br></br>
