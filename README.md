@@ -3,7 +3,7 @@ Latin Vocabulary Reference Book in German
 
 To download the latest version simply go to "Releases" on the right sidebar and select the first file below "Assets". The download prompt of your browser will appear and ask you if you want to save the file. Save it on your device and open it with one of the supported viewers listed below, to check if everything works correctly.
 
-Um die neueste Version herunterzuladen navigiere zu "Releases" in der rechten Seitenleiste und wähle die erste datei unterhalb von "Assets" aus. Nun sollte sich das Downloadfenster deines Browsers öffnen und fragen, ob die Datei gespeichert werden soll. Speichere sie auf deinem Gerät und öffne sie mit einem der unterstützten Viewer von unten, um zu überprüfen, ob alles funktioniert.
+Um die neueste Version herunterzuladen navigiere zu "Releases" in der rechten Seitenleiste und wähle die erste Datei unterhalb von "Assets" aus. Nun sollte sich das Downloadfenster deines Browsers öffnen und fragen, ob die Datei gespeichert werden soll. Speichere sie auf deinem Gerät und öffne sie mit einem der unterstützten Viewer von unten, um zu überprüfen, ob alles funktioniert.
 
 (IpadOS Tutorial: https://www.youtube.com/watch?v=R99axgwEV80)
 <br>
