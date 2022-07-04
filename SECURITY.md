@@ -1,21 +1,10 @@
 # Security Policy
 
 ## Supported Versions
-
-Use this section to tell people about which versions of your project are
-currently being supported with security updates.
-
-| Version | Supported          |
-| ------- | ------------------ |
-| 5.1.x   | :white_check_mark: |
-| 5.0.x   | :x:                |
-| 4.0.x   | :white_check_mark: |
-| < 4.0   | :x:                |
+As we implemented a update notification in version v3.0.3-release you will automatically get notified if a new version is available, which will include eventual sevurity fixes that are necessary.
+Old versions wont get updated, so use them at your own risk, we cannot guarantee that the program will work properly...
 
 ## Reporting a Vulnerability
+You can simply send us an email to notify us about any security vulnerabilities or bugs in general, we will try our best to get them fixed as soon as possible and release a new and improved version.
 
-Use this section to tell people how to report a vulnerability.
 
-Tell them where to go, how often they can expect to get an update on a
-reported vulnerability, what to expect if the vulnerability is accepted or
-declined, etc.
